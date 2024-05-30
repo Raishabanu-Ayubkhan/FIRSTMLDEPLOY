@@ -1,2 +1,1 @@
-# FIRSTMLDEPLOY
-MLOPS PRACTICE
+END to END Machine Learning Projectgit affgit 
